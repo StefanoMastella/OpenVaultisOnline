@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+public/
+.cache/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Quartz
+.quartz-cache/
+
+# Temporary files
+*.log
+*.tmp
+
+# Large files (GitHub limit 100MB)
+*.mp4
+**/*.mp4
+**/APRESENTAÇÃO*.pdf
+**/Founder Haus*.mp4
+**/SONOSFERA*.mp4
+**/IMT Preview*.mp4
+

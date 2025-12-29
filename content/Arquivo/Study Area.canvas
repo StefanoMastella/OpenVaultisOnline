@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"30957ab18217045d","type":"group","x":1191,"y":-218,"width":989,"height":918},
+		{"id":"85a4e33f8a64af4b","type":"group","x":1560,"y":-920,"width":666,"height":627},
+		{"id":"9af3b4d5524f45ee","type":"group","x":542,"y":-218,"width":596,"height":672},
+		{"id":"3f51fbaffd183bfe","type":"group","x":-120,"y":-218,"width":585,"height":672},
+		{"id":"8199d5b39f01f4df","type":"file","file":"Arquivo/Pasted image 20250324205728.png","x":-1123,"y":-232,"width":300,"height":434},
+		{"id":"947f1e5c3115238a","type":"file","file":"Arquivo/Prof. Eric - Youtube channel.png","x":-637,"y":-232,"width":428,"height":225},
+		{"id":"b0c64f5b8a72d462","type":"text","text":"O professor Eric da EAC e autor do livro Acústica de Salas também tem as aulas da materia disponíveis no Youtube.\n\nCap. 1: https://www.youtube.com/watch?v=WOEK2D_heSM&list=PLfuiSoAvtFWddtM0ffpyw3CFYUhHZ_4fW\nCap. 2: https://www.youtube.com/watch?v=U4dMslaEh7U&list=PLfuiSoAvtFWe7x3hOKcK1yCF5ZUzuaGdj\nCap. 3: https://www.youtube.com/watch?v=lctUg3DVW3U&list=PLfuiSoAvtFWeKwRjgy08Hy9u6-poVaWUv\nCap. 4: https://www.youtube.com/watch?v=Mrl5RaqofkQ&list=PLfuiSoAvtFWeEdHQ_ohgm0rT8xelym_WF\nCap. 5: https://www.youtube.com/watch?v=OQcO2eSHtpQ&list=PLfuiSoAvtFWf-ukbR1H1FSF70Dbo9iZy5\nCap. 6: https://www.youtube.com/watch?v=DDjmZjjbhec&list=PLfuiSoAvtFWcsO8HKdMdiYpNCDjnpHmHv\nCap. 7:https://www.youtube.com/watch?v=kqukHBww4l0&list=PLfuiSoAvtFWdhlFI60VoVWnNt5shQruYM","x":-703,"y":48,"width":561,"height":423},
+		{"id":"f18d65297214c884","type":"text","text":"# Materias de Estudo","x":-1154,"y":-360,"width":363,"height":72},
+		{"id":"326ea5f470adeec0","type":"text","text":"### Main Areas of Acoustical Engineering\n- Room Acoustics\n- Auralization\n- Instrumentation\n- Building Acoustics\n- Experimental Methods in Acoustics and Vibrations\n- Numerical Methods in Acoustics and Vibrations\n- Subjective Acoustics\n- Psychoacoustics\n- Sound Reinforcement\n","x":-667,"y":-594,"width":489,"height":324},
+		{"id":"c7e479ce46a1516c","type":"file","file":"Arquivo/Logo EAC.png","x":-1098,"y":-680,"width":251,"height":264},
+		{"id":"60394f378e1b2730","type":"text","text":"### Estudo de Layout e Plano de Necessidades\nRealizamos um estudo detalhado dos espaços e das necessidades específicas para desenvolver soluções acústicas sob medida. O planejamento acústico nas fases iniciais do projeto traz vantagens de **economia e qualidade**.","x":-100,"y":-198,"width":545,"height":189},
+		{"id":"a688671eedfef980","type":"file","file":"Arquivo/Layout de Estúdio.png","x":2,"y":34,"width":342,"height":400},
+		{"id":"f746deeb88b8499c","type":"text","text":"## Isolamento Acústico","x":-140,"y":-421,"width":285,"height":71},
+		{"id":"32df5d5aad29d82d","type":"text","text":"# Fases de Projeto Acústico\n","x":28,"y":-614,"width":384,"height":74},
+		{"id":"d00b3c3f5d641441","type":"text","text":"## Tratamento Acústico","x":321,"y":-421,"width":285,"height":71},
+		{"id":"394e38f1ab211434","type":"text","text":"### Análise Modal - Baixas Frequências\nOnde avaliamos o espectro sonoro em **baixas frequências** com um sofisticado programa de Método de Elementos Finitos. Essa análise serve para identificar as zonas onde ocorrem os modos acústicos, com isso é possível aperfeiçoar a geometria do ambiente, posicionar materiais acústicos e fontes sonoras.","x":562,"y":-198,"width":556,"height":189},
+		{"id":"b34f2bc6ac5deff4","type":"file","file":"Arquivo/Modos Acústicos.png","x":578,"y":34,"width":524,"height":400},
+		{"id":"152748f03b3d9e07","type":"text","text":"### Análise Estatística - médias e altas frequências\nCálculo de Tempo de Reverberação baseado nas áreas e coeficientes de absorção dos materiais dentro de uma sala\n","x":1411,"y":-198,"width":626,"height":138},
+		{"id":"e12a780d55346968","type":"file","file":"Arquivo/Pasted image 20250324205807.png","x":1211,"y":-9,"width":400,"height":347},
+		{"id":"2d4483351f7d0f99","type":"file","file":"Arquivo/TR Ideal - Estúdios.jpg","x":1211,"y":391,"width":509,"height":241},
+		{"id":"9e8510dbf91bc929","type":"file","file":"Arquivo/Pasted image 20250324205943.png","x":1640,"y":25,"width":518,"height":280},
+		{"id":"de9301d9388c395b","type":"file","file":"Arquivo/TR Ideal - Tipo de Sala.png","x":1758,"y":354,"width":400,"height":314},
+		{"id":"e573e7ff392a870d","type":"text","text":"### Análise Geométrica - médias frequências\nEm que avaliamos a região das **médias e altas frequências** por meio de Método de Traçado de Raios. É nessa fase em que são avaliadas as reflexões sonoras. O objetivo nessa etapa é eliminar os ecos e ecos palpitantes, controlar os tempos de chegada das ondas sonoras, decaimentos sonoros (EDT - early decay time e tempo de reverberação), aperfeiçoar parâmetros de claridade (C50 e C80), definição (D50 e D80), relação sinal-ruído (SNR - signal-to-noise ratio) e inteligibilidade da fala (STI - speech transmission index).","x":1580,"y":-900,"width":626,"height":246},
+		{"id":"9e26ce27b05c10cf","type":"file","file":"Arquivo/Pasted image 20250324210044.png","x":1631,"y":-608,"width":524,"height":295},
+		{"id":"c6327f33ecefe356","type":"text","text":"### Medição de Tempo de Reverberação\nInformações reais da sala medidas através de instrumentação.","x":900,"y":-838,"width":540,"height":122}
+	],
+	"edges":[
+		{"id":"e531220a2d9c4bf9","fromNode":"b0c64f5b8a72d462","fromSide":"top","toNode":"947f1e5c3115238a","toSide":"bottom"},
+		{"id":"8e1975261623e661","fromNode":"32df5d5aad29d82d","fromSide":"bottom","toNode":"f746deeb88b8499c","toSide":"top"},
+		{"id":"ec1fbf4269627ca7","fromNode":"32df5d5aad29d82d","fromSide":"bottom","toNode":"d00b3c3f5d641441","toSide":"top"},
+		{"id":"cd483c072fafbe3f","fromNode":"d00b3c3f5d641441","fromSide":"bottom","toNode":"3f51fbaffd183bfe","toSide":"top"},
+		{"id":"8e5823a8f60f49a0","fromNode":"d00b3c3f5d641441","fromSide":"bottom","toNode":"9af3b4d5524f45ee","toSide":"top"},
+		{"id":"ec50a70b7070d631","fromNode":"d00b3c3f5d641441","fromSide":"right","toNode":"c6327f33ecefe356","toSide":"left"},
+		{"id":"004ef3f58a10871c","fromNode":"f18d65297214c884","fromSide":"bottom","toNode":"8199d5b39f01f4df","toSide":"top"},
+		{"id":"abe8b2a016c44404","fromNode":"8199d5b39f01f4df","fromSide":"right","toNode":"947f1e5c3115238a","toSide":"left"},
+		{"id":"f56bdbd3da15bee7","fromNode":"d00b3c3f5d641441","fromSide":"right","toNode":"85a4e33f8a64af4b","toSide":"left"},
+		{"id":"312f2c510c6f5c24","fromNode":"d00b3c3f5d641441","fromSide":"right","toNode":"30957ab18217045d","toSide":"top"},
+		{"id":"334a06903d7904d3","fromNode":"c7e479ce46a1516c","fromSide":"bottom","toNode":"326ea5f470adeec0","toSide":"top"}
+	]
+}

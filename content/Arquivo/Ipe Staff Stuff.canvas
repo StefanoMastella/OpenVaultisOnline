@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d673e53929c6f6bd","type":"link","url":"https://docs.google.com/spreadsheets/d/1B1JrLU8R6-rZkxbIiJfgHbzh0AGV1KRUtlIljgswUD8/edit?gid=239105459#gid=239105459","x":-560,"y":-200,"width":400,"height":400,"color":"3"},
+		{"id":"d4ae9253f831d506","type":"link","url":"https://docs.google.com/spreadsheets/d/1Vwux8lV4dEY91ThcQ3v3yrBlIaANhuvJX5TylV8-PFY/edit?gid=1992387153#gid=1992387153","x":-140,"y":-200,"width":400,"height":400,"color":"3"},
+		{"id":"52e4231f4c5e7bcb","type":"text","text":"# Other Spaces\n### Impacthub\n**Português:**  \nImpact Hub Floripa (Sapiens Parque) oferece estações de trabalho, salas de reunião, rooftop e eventos. Ambiente moderno, colaborativo e com rede global, ideal para networking e produtividade na região norte da ilha.\n\n**English:**  \nImpact Hub Floripa (Sapiens Parque) offers workstations, meeting rooms, a rooftop, and events. A modern, collaborative space with a global network—perfect for productivity and networking in north Florianópolis.\n\n### SENAI\n\n**Português:**  \nO Instituto SENAI de Inovação em Sistemas Embarcados, localizado no Sapiens Parque, oferece coworking com estações de trabalho e salas de reunião, ideal para startups e projetos de inovação.​\n\n**English:**  \nThe SENAI Institute for Embedded Systems Innovation, located in Sapiens Parque, offers coworking with workstations and meeting rooms, ideal for startups and innovation projects.\n\n### Espaço +um\n\n**Português:**  \nEspaço +um é um coworking na SC-401, com estações de trabalho, salas privativas, restaurante, café e eventos. Ambiente moderno, pet friendly, com estacionamento e ideal para quem busca produtividade e conexão em Florianópolis.\n\n**English**:\nEspaço +um is a coworking space on SC-401 in Florianópolis, offering shared desks, private rooms, a café, restaurant, and events. Modern, pet-friendly, with parking—perfect for productivity and networking in a vibrant setting.\n","x":280,"y":-200,"width":460,"height":400,"color":"3"},
+		{"id":"54a5b4772e7c3ec0","type":"link","url":"https://docs.google.com/spreadsheets/d/1A9qZt8JdCUkY1hCATfd9Dja7o5RUZlPbCjvhT71fwQw/edit?gid=1295616412#gid=1295616412","x":-560,"y":220,"width":400,"height":400,"color":"3"},
+		{"id":"3ce9b1252ec828ad","type":"text","text":"## Centralize all into a single link\n### https://linktr.ee/IpeMindVolunteers\n\n","x":280,"y":220,"width":460,"height":240,"color":"3"},
+		{"id":"8f12788cd5914691","type":"link","url":"https://docs.google.com/spreadsheets/d/1S47bd1rsZa4vOYWABDYjyWiHFFtP41rRvJ6H6Pr3LYU/edit?usp=sharing","x":-140,"y":220,"width":400,"height":400,"color":"3"},
+		{"id":"7082aef2bdab7b4c","type":"link","url":"https://docs.google.com/spreadsheets/d/10ow9XCswQ4pWgws2xfnMxc7_Uh_TxZJXu9k6VCXMZ10/edit?gid=693409669#gid=693409669","x":-980,"y":220,"width":400,"height":400},
+		{"id":"89fe788b67926e0b","type":"link","url":"https://docs.google.com/spreadsheets/d/1N4vlihJ2AeLcR7se9QjjsiI70VrHSzdj1UBbdgUYJME/edit?gid=1295616412#gid=1295616412","x":-980,"y":-200,"width":400,"height":400},
+		{"id":"e8e43ce2a5659aa4","type":"text","text":"Planilhas eventos","x":840,"y":116,"width":251,"height":60},
+		{"id":"ee6cfa9d59be8c8f","type":"text","text":"Planilha check-ins","x":841,"y":28,"width":250,"height":60},
+		{"id":"3ef77f625294dece","type":"text","text":"Todos os Inscritos","x":841,"y":200,"width":250,"height":60},
+		{"id":"2773a7a100d288a0","type":"text","text":"Dashboard","x":1134,"y":45,"width":286,"height":202}
+	],
+	"edges":[
+		{"id":"944cd73a78499d6a","fromNode":"ee6cfa9d59be8c8f","fromSide":"right","toNode":"2773a7a100d288a0","toSide":"left"},
+		{"id":"d9e934ee9500de40","fromNode":"e8e43ce2a5659aa4","fromSide":"right","toNode":"2773a7a100d288a0","toSide":"left"},
+		{"id":"4d385388d4bfa765","fromNode":"3ef77f625294dece","fromSide":"right","toNode":"2773a7a100d288a0","toSide":"left"}
+	]
+}

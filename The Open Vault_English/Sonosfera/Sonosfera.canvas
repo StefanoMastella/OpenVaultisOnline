@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"9e95c5156aad2582","type":"group","x":-3920,"y":-3240,"width":525,"height":520,"color":"#cde1ee","label":"New Technologies"},
+		{"id":"d5addc046ce0e008","type":"group","x":-3344,"y":-3240,"width":507,"height":520,"color":"#b68451","label":"Sphere Expansion"},
+		{"id":"5fb47373dfa15352","type":"group","x":-2800,"y":-3240,"width":409,"height":520,"color":"#578c81","label":"Forest of Contexts"},
+		{"id":"449252981311f1d3","type":"group","x":-2340,"y":-3240,"width":400,"height":520,"color":"#c1c796","label":"Future"},
+		{"id":"cee1e0a97e7760f3","type":"group","x":-1880,"y":-3240,"width":396,"height":520,"color":"#e2b063","label":"Education"},
+		{"id":"27ef50222d623be9","type":"group","x":-1860,"y":-3880,"width":356,"height":546,"color":"#382dc8"},
+		{"id":"f3528249f71e2d28","type":"file","file":"Arquivo/Jehmerson.png","x":-5119,"y":-4199,"width":240,"height":358},
+		{"id":"dfc4f54b3d222870","type":"text","text":"# Jehmerson Viral Content Specialist | Organic Strategy\n\n### https://www.instagram.com/jehmersonmkt/","x":-5180,"y":-3819,"width":361,"height":109},
+		{"id":"04d74ab9567b669a","type":"text","text":"# [[Arquivo/Exoteric Tree.canvas|Exoteric Tree]]","x":-2730,"y":-3220,"width":268,"height":70,"color":"#578b80"},
+		{"id":"c46214e3aba3ca33","type":"text","text":"# [[Arquivo/Sonosfera Sound Healing.canvas|Sonosfera Sound Healing]]","x":-2280,"y":-3220,"width":281,"height":90,"color":"#c1c796"},
+		{"id":"f4836ed30e1043e6","type":"text","text":"# Stéfano Mastella Corrêa Acoustic Engineer | Sonosfera Director\n\n### @engstefanomcorrea\n\n### Philosophy\nFor acoustic engineering, an environment is not just barriers and textures; it is vibrational fields that resonate with your well-being.","x":-4745,"y":-3819,"width":360,"height":109},
+		{"id":"afca929b7d7399d2","type":"text","text":"# Matheus Fernandes | Sonosfera Architect and Designer\n\n### https://www.instagram.com/matheus_arq36/\n\n### Philosophy\nIn architecture, we shape and create environments that, beyond aesthetics, distribute the perceptions of space.","x":-4322,"y":-3819,"width":355,"height":109},
+		{"id":"16bf7c35ffe5f60e","type":"file","file":"Arquivo/Sonosfera Overview 1.png","x":-4858,"y":-3627,"width":400,"height":179},
+		{"id":"fb612c112a527b57","type":"file","file":"Arquivo/Acoustical Engineering  1.png","x":-4858,"y":-3448,"width":399,"height":189},
+		{"id":"9b61bec9ed61903b","type":"file","file":"Arquivo/Logo EAC.png","x":-4385,"y":-3607,"width":278,"height":293},
+		{"id":"95971dfd818af9be","type":"file","file":"Arquivo/Chamber of Conclusions.png","x":-2701,"y":-4408,"width":400,"height":388},
+		{"id":"a9ba4a82ba635f6f","type":"file","file":"Arquivo/Sonosfera Logo.png","x":-3744,"y":-3960,"width":1775,"height":592},
+		{"id":"645af5d13fad8dc3","type":"file","file":"Arquivo/Chamber of Conclusions.canvas","x":-2132,"y":-4729,"width":783,"height":642},
+		{"id":"bc7d8157b65dd884","type":"text","text":"# [[Arquivo/Founder Haus.canvas|Founder Haus]]","x":-1812,"y":-3860,"width":281,"height":77,"color":"#382dc8"},
+		{"id":"369e556b5026a893","type":"file","file":"Arquivo/Founder Haus.png","x":-1840,"y":-3733,"width":319,"height":379,"color":"#382dc8"},
+		{"id":"6aa90a1d08c0d9aa","type":"file","file":"Arquivo/The Etherial Sound Information Tree.png","x":-2770,"y":-3100,"width":350,"height":350,"color":"#578b80"},
+		{"id":"3847d364b4ffd21c","type":"file","file":"Sonosfera/Vibrational One.png","x":-2319,"y":-3100,"width":360,"height":350,"color":"#c1c796"},
+		{"id":"db73744301b24e6c","type":"text","text":"# [[Arquivo/Study Area.canvas|Study Area]]","x":-1823,"y":-3220,"width":281,"height":90,"color":"#e2b063"},
+		{"id":"9a4c5128e0389c9d","type":"file","file":"Arquivo/Acoustic Girl.png","x":-1859,"y":-3100,"width":356,"height":350,"color":"#e2b063"},
+		{"id":"f2438c5f73cad866","type":"file","file":"Arquivo/engStefCorrea.png","x":-4695,"y":-4199,"width":269,"height":358},
+		{"id":"daed0e40f457df1f","type":"file","file":"Arquivo/Draco 3.0.png","x":-4491,"y":-4460,"width":213,"height":213},
+		{"id":"926b920a6f65549b","type":"text","text":"# [[Sonosfera/Sphere Expansion.canvas|Marketing and Networking]]","x":-3285,"y":-3220,"width":389,"height":80,"color":"#b68451"},
+		{"id":"9ea3cf86a1c6dac0","type":"file","file":"Arquivo/SoundSphere Connections.jpg","x":-3323,"y":-3100,"width":467,"height":350,"color":"#b68451"},
+		{"id":"114fde59410b826a","type":"text","text":"# [[Arquivo/Research and Development.canvas|Research and Development]]","x":-3880,"y":-3220,"width":445,"height":80,"color":"#cde1ee"},
+		{"id":"ae4ca3c422c3ab6f","type":"file","file":"Arquivo/Pesquisa e Desenvolvimento.png","x":-3899,"y":-3100,"width":485,"height":350,"color":"#cde1ee"},
+		{"id":"ce3500efa3f38c86","type":"file","file":"Quests/The Next Sonosfera Movements.md","x":-4760,"y":-3175,"width":751,"height":456},
+		{"id":"cc0a7ba705151565","type":"file","file":"Arquivo/Strategies Maps - SoundSphere.webp","x":-3895,"y":-4600,"width":580,"height":580},
+		{"id":"7fd30ef672f585c6","type":"file","file":"Arquivo/Matheus Arch.jpg","x":-4325,"y":-4199,"width":358,"height":358}
+	],
+	"edges":[
+		{"id":"42b773e2111e1552","fromNode":"9b61bec9ed61903b","fromSide":"left","toNode":"fb612c112a527b57","toSide":"right"},
+		{"id":"b6b3e523ef9aedb0","fromNode":"95971dfd818af9be","fromSide":"right","toNode":"645af5d13fad8dc3","toSide":"left"}
+	]
+}

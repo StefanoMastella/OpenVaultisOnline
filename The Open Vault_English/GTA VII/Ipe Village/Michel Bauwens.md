@@ -1,0 +1,4 @@
+**Affiliation:** Founder of the P2P Foundation  
+**Summary:** A Belgian theorist focused on peer-to-peer (P2P), exploring peer production, governance, and the commons as systemic alternatives. His P2P theory extends beyond technology, addressing human evolution and new forms of social and political organization, directly connecting to the themes of governance, social change, philosophy, and the organization of human powers.  
+**Relevant Work/Interests:** Author of "The Political Economy of Peer Production" (P2P theory as an alternative to capitalism) and "Peer to Peer and Human Evolution" (egalitarian networking as a new form of social relationship and organization), co-creator of the documentary "TechnoCalyps" (transhumanism and the metaphysics of technology), and consultant on Commons Transition Plans for governments.  
+**Links:** [P2P Foundation](http://www.p2pfoundation.net/)

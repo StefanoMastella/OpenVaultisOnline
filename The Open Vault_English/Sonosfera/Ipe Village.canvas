@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"a349e15951c32184","type":"group","x":-1080,"y":-570,"width":480,"height":620,"color":"#3aa4fe"},
+		{"id":"a97cd902c693f3bd","type":"group","x":440,"y":-550,"width":480,"height":600,"color":"#ffb600"},
+		{"id":"23c55229a1dae494","type":"group","x":-920,"y":-880,"width":799,"height":248,"color":"#00ffff"},
+		{"id":"f6c894b3ccce8f67","type":"group","x":-78,"y":-880,"width":618,"height":248,"color":"#ffffff"},
+		{"id":"728abd4c547428cc","type":"file","file":"Arquivo/Ipe Explorer Path.canvas","x":-1038,"y":-280,"width":400,"height":303,"color":"#3aa4fe"},
+		{"id":"a0caad5d05a5cd80","type":"file","file":"GTA VII/Ipe Village/Ipe Goals.md","x":-1083,"y":180,"width":524,"height":559,"color":"#ff66fa"},
+		{"id":"2be6bc10fc35c8ed","type":"file","file":"Arquivo/Hub  Totem Logo.png","x":-900,"y":-860,"width":204,"height":208},
+		{"id":"c388af5811d1227e","type":"file","file":"GTA VII/Ipe Village/Explorer Path.png","x":-1038,"y":-546,"width":400,"height":247,"color":"#3aa4fe"},
+		{"id":"db6f91156b5920d6","type":"text","text":"## 22 to 29\nAmbientando-se na nova cidade.","x":-483,"y":456,"width":331,"height":284,"color":"#587342"},
+		{"id":"d69dc2fccae95535","type":"text","text":"## 29 to 06\nPrototyping the Ipê Mind Tree (IMT). \nObsidian MCP Running good.\nStephano's 2nd mind talking with Matheus 2nd mind.","x":-117,"y":456,"width":332,"height":284,"color":"#587342"},
+		{"id":"b79215f06e12a9ca","type":"link","url":"https://lu.ma/ipecity","x":-272,"y":120,"width":389,"height":280},
+		{"id":"f6380f144f9ab4bb","type":"text","text":"### DracoLogos Sphere\n- Ipê Mind Tree\n- Audiovisual\n\nFazer CosmoCast","x":-666,"y":-860,"width":329,"height":208,"color":"#00ffff"},
+		{"id":"5b4e55cab8c3f2f4","type":"file","file":"Arquivo/Ipe City.png","x":-502,"y":-467,"width":849,"height":480},
+		{"id":"146a60d1b6e787a6","type":"file","file":"Arquivo/DracoLogos Cut.png","x":-321,"y":-860,"width":180,"height":208,"color":"#00ffff"},
+		{"id":"17458c45d6d96b88","type":"file","file":"Sonosfera/Material Marketing/LOGO - SONOSFERA - APROVADA/Sonosfera Logo.png","x":-58,"y":-860,"width":208,"height":208,"color":"#ffffff"},
+		{"id":"df4f33976ad41ced","type":"text","text":"### Sonosfera\n- Acoustical Governance","x":177,"y":-860,"width":340,"height":208,"color":"#ffffff"},
+		{"id":"abc7d0bcc392a9de","type":"file","file":"Arquivo/Clippings/Home  IPÊ City.md","x":176,"y":120,"width":400,"height":280},
+		{"id":"bd1070872a3e9ad5","type":"text","text":"## 13 to 22\n- May 12: Architect showcase\n- May 17: Show the IMT to the World\n","x":605,"y":456,"width":332,"height":284,"color":"#587342"},
+		{"id":"6bae17cbe8268a2c","type":"text","text":"## 06 to 13\nDynamic: other citizens and the Ipê Mind Tree. Still to be defined how, but a brainstorming among them.","x":244,"y":456,"width":332,"height":284,"color":"#587342"},
+		{"id":"f39130e9706ed523","type":"file","file":"Arquivo/Ipe Architect Path.canvas","x":480,"y":-275,"width":400,"height":308,"color":"#ffb600"},
+		{"id":"797330b0eb7de18e","type":"file","file":"Arquivo/Ipe Poster.png","x":960,"y":-860,"width":358,"height":506},
+		{"id":"fc643f94816bb453","type":"file","file":"GTA VII/Ipe Village/Architect Path.png","x":480,"y":-521,"width":400,"height":236,"color":"#ffb600"}
+	],
+	"edges":[
+		{"id":"041b4ce53197ac67","fromNode":"5b4e55cab8c3f2f4","fromSide":"bottom","toNode":"b79215f06e12a9ca","toSide":"top"},
+		{"id":"20f7282b03d5e5fb","fromNode":"b79215f06e12a9ca","fromSide":"right","toNode":"abc7d0bcc392a9de","toSide":"left"},
+		{"id":"60f7244102f5a829","fromNode":"146a60d1b6e787a6","fromSide":"bottom","toNode":"5b4e55cab8c3f2f4","toSide":"top"},
+		{"id":"58c644e9a92c9e99","fromNode":"17458c45d6d96b88","fromSide":"bottom","toNode":"5b4e55cab8c3f2f4","toSide":"top"},
+		{"id":"5faa7111c450cbf9","fromNode":"5b4e55cab8c3f2f4","fromSide":"left","toNode":"a349e15951c32184","toSide":"right"},
+		{"id":"d0bfc8463c18d0ac","fromNode":"5b4e55cab8c3f2f4","fromSide":"right","toNode":"a97cd902c693f3bd","toSide":"left"}
+	]
+}

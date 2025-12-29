@@ -1,0 +1,1 @@
+## O que tenho à minha disposição?

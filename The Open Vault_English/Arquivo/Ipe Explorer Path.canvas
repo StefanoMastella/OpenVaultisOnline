@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"fd716e456d52b118","type":"group","x":-435,"y":-153,"width":871,"height":306,"color":"#f1e4dc"},
+        {"id":"328ab28efd9107e5","type":"text","text":"# [[Arquivo/Agora.canvas|Agora]] (People)","x":-415,"y":-80,"width":320,"height":80,"color":"#f1e4dc"},
+		{"id":"51affb7196e8e915","type":"file","file":"Arquivo/comumunity.png","x":-55,"y":-133,"width":471,"height":266,"color":"#f1e4dc"},
+		{"id":"e31df8bded7ab429","type":"text","text":"# [[Themes and Topics.canvas|Themes and Topics]]","x":-409,"y":21,"width":309,"height":75,"color":"#f1e4dc"},
+		{"id":"a1d60d6801068030","type":"file","file":"Arquivo/Tainha Elétrica.png","x":-760,"y":-179,"width":265,"height":400}
+	],
+	"edges":[]
+}

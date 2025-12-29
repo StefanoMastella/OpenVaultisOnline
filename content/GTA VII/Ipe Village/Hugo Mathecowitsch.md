@@ -1,0 +1,4 @@
+**Affiliation:** Founder @ Tools for the Commons  
+**Summary:** Drives social innovation by building regenerative collaboration networks and network-managed cities using blockchain and distributed technologies. His work focuses on open governance solutions and augmenting collective intelligence, directly aligning with Ipê City's themes of governance, blockchain, and unleashing human potential.  
+**Relevant Work/Interests:** Founder of Tools for the Commons (community-run protocol for public goods, network-managed cities/societies, open governance solutions), Augmenting Collective Intelligence.  
+**Links:** [LinkedIn](https://www.linkedin.com/in/hugo-mathecowitsch-9447a3213/?originalSubdomain=br), [Tools for the Commons Website](https://toolsforthecommons.com/)
