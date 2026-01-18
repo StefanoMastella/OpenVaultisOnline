@@ -1,6 +1,6 @@
 # Dependencies
 node_modules/
-package-lock.json
+# package-lock.json - DEVE ser commitado para npm ci funcionar
 
 # Build output
 public/
