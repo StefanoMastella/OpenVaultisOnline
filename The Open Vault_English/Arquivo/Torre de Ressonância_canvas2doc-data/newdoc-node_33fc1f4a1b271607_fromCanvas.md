@@ -1,1 +1,0 @@
-Republicar aquele excelente texto do criador do obsidian sobre seres híbridos. É sobre mim, e pode ser sobre muitos outros!

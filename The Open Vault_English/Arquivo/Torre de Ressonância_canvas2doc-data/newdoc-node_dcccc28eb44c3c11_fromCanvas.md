@@ -1,1 +1,0 @@
-Coisas sobre networkstate, naturalmente

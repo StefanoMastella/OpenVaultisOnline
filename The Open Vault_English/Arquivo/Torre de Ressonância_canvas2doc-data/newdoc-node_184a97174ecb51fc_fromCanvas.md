@@ -1,1 +1,0 @@
-primeira voz sintética de todas

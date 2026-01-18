@@ -1,1 +1,0 @@
-mais um pra série de sonoridades da história: Epitáfio de Seikilos

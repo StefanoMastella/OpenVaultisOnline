@@ -1,5 +1,0 @@
-- [ ] Create and connect Obsidian MCP
-- [ ] Exportar as conversas do telegram pro IMT 
-- [ ] Marcar reunião com Paloma
-- [ ] Mandar auralização da Founder Haus no tópico de Arquitetura. Hyperrealistic sound simulation
-- [ ] Send contributions to get the valocracy tokens

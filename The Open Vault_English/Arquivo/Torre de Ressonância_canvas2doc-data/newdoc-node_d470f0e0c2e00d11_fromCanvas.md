@@ -1,1 +1,0 @@
-publicar tbm em portugues

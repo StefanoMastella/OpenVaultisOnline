@@ -1,1 +1,0 @@
-comunidades, pessoas no lugar que lhes é mais adequado

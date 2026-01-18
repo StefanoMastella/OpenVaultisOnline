@@ -1,1 +1,0 @@
-O Louco busca por hypes e tendências relacionadas aos interesses da Sonosfera, DracoLogos e Stéfano

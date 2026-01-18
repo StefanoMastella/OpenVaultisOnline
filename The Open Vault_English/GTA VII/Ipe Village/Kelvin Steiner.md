@@ -1,4 +1,0 @@
-**Affiliation:** Builder of Torus Network (Agent-based Blockchain)  
-**Summary:** Focuses on solving problems through elegant software, with interests spanning philosophy, economics, decentralized systems, and meditation. His work building an agent-based blockchain directly aligns with Ipê City's focus on blockchain, decentralized governance, and the integration of technology with philosophical thought and human potential.  
-**Relevant Work/Interests:** Building Torus Network (Agent-based Blockchain), interest in philosophy, economics, decentralized systems, and meditation.  
-**Links:** [GitHub](https://github.com/steinerkelvin), [LinkedIn](https://www.linkedin.com/in/steinerkelvin/)
