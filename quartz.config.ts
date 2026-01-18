@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     locale: "pt-BR",
-    baseUrl: "https://stefanomastella.github.io/OpenVaultisOnline",
+    baseUrl: "stefanomastella.github.io/OpenVaultisOnline",
     ignorePatterns: ["private", "templates", ".obsidian", "*.canvas", "*.ts", "*.csv", "*.txt"],
     defaultDateType: "modified",
     theme: {
