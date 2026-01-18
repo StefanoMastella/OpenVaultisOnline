@@ -8,15 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ipê Mind Tree",
-    pageTitleSuffix: "",
+    pageTitle: "Obsidian Synapses",
+    pageTitleSuffix: " | Seu Segundo Cérebro",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "pt-BR",
+    baseUrl: "stefanomastella.github.io/OpenVaultisOnline",
     ignorePatterns: ["private", "templates", ".obsidian", "*.canvas", "*.ts", "*.csv", "*.txt"],
     defaultDateType: "modified",
     theme: {
